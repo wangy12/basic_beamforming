@@ -7,12 +7,12 @@
 * linear and planar arrays (2D and 3D)
 * Beamforming:
 
-... Capon, MMSE, LCMV
+   - Capon, MMSE, LCMV
 
-... iterative/batch processing
+   - iterative/batch processing
 
 * DOA estimation:
 
-... Capon, MUSIC, Esprit
+   - Capon, MUSIC, Esprit
 
 
